@@ -1,0 +1,1 @@
+ /Users/thimuthup/dev/GitProjects/gpt_geminai/.dart_tool/flutter_build/812ebc64b73e503dcb570676510c4392/native_assets.yaml: 
